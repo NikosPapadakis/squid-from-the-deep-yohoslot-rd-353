@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://squid-from-the-deep-yohoslot-353.onrender.com/sitemap.xml
+Sitemap: https://srv-d864fpti849s738dlic0.onrender.com/sitemap.xml
